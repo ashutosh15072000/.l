@@ -2,8 +2,7 @@
 
 import streamlit as st
 import requests
-from sklearn.linear_model import LogisticRegression
-from sklearn.feature_extraction.text import CountVectorizer,TfidfTransformer,TfidfVectorizer
+import sklearn
 import pandas as pd
 import pickle
 
