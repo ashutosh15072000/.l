@@ -2,7 +2,6 @@
 
 import streamlit as st
 import requests
-import sklearn
 import pandas as pd
 import pickle
 
