@@ -1,6 +1,6 @@
 ## Automatic Ticket Classification
 ## Deploy the model on Heroku
-![](Screenshot (184).png)
+![](Screenshot%20(184).png)
 
 
 ## Problem statement
